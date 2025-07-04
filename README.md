@@ -3,6 +3,7 @@
 **Alumno:** Tobias Alamedas  
 **Profesor:** Patricio Costello  
 **Fecha de entrega:** 3 de julio de 2025  
+**Link al video explicativo:** https://youtu.be/bVmAhLH_Tr8
 
 ## Contenido
 - 📄 `Tobias_Alamedas_TP_Integrador.pdf`: Trabajo final completo
